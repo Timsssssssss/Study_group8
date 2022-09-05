@@ -1,6 +1,6 @@
 ---
 title: "Session 4: Homework 2"
-author: "Study group 8"
+author: "Study group 8, Tianyi Zhang"
 date: "`r Sys.Date()`"
 output:
   html_document:
